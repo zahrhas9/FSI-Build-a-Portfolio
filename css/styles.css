@@ -1,7 +1,17 @@
 
 body {
-    background-color:rgb(245, 195, 134)
+    background-color:rgb(224, 158, 171)
 }
+
 h1 {
-    color:rgb(104, 117, 81);
+    color:rgb(107, 135, 49);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
 }
+h2 {
+    color:rgb(0, 6, 8);
+    font-family:inherit;
+   
+    
+}
+
